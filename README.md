@@ -1,2 +1,1 @@
-# shoping-website-final
-end-to-end
+# shoping-website
